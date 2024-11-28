@@ -14,3 +14,9 @@ Built a movie downloading web app, where the user can navigate different movies,
 ![Screenshot (86)](https://github.com/kartik2318/justOneClickDownload/assets/88738699/b882df4c-bd8b-4ef6-8921-128b96f9f5dd)
 
 ![Screenshot (90)](https://github.com/kartik2318/justOneClickDownload/assets/88738699/1d967724-7a3b-49ae-a89a-6204e793646a)
+
+
+
+
+https://github.com/user-attachments/assets/e4d5e170-5164-4f73-b878-c4028204c8e4
+
